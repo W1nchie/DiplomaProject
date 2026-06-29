@@ -1,0 +1,4 @@
+TMotorCANControl
+pyserial
+python-can
+numpy
